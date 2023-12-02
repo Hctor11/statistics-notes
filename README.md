@@ -13,3 +13,6 @@ As I navigate through concepts and code, I'm curating a collection of notes, cod
 - **Hands-on Exploration**: Dive into Python-based implementations, from simple statistical analyses to the deployment of complex ML algorithms. Together, we'll understand the theory behind these concepts and see them in action through code.
 
 - **Growth Mindset**: Embracing the learning curve, I aim to make this repository a reflection of my progress, learning from mistakes, and refining my understanding with each new concept I encounter.
+
+## Resources
+ https://realpython.com/python-statistics/#measures-of-correlation-between-pairs-of-data
