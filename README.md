@@ -15,4 +15,5 @@ As I navigate through concepts and code, I'm curating a collection of notes, cod
 - **Growth Mindset**: Embracing the learning curve, I aim to make this repository a reflection of my progress, learning from mistakes, and refining my understanding with each new concept I encounter.
 
 ## Resources
- https://realpython.com/python-statistics/#measures-of-correlation-between-pairs-of-data
+- https://realpython.com/python-statistics/#measures-of-correlation-between-pairs-of-data
+- Practical Statistics for Data Scientist 
